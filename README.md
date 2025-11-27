@@ -51,5 +51,6 @@ A set of example XML responses is provided in the `sample_responses` folder. The
 - sample_responses\InventoryInquiry_SampleResponse.xml — sample for the InventoryInquiry service
 - sample_responses\RelatedItems_SampleResponse.xml — sample for the RelatedItems service
 - sample_responses\StockCheck_SampleResponse.xml — sample for the StockCheck service
+- sample_responses\ServiceProfile_SampleResponse.xml - sample of the services profile available
 
 Tip: Open these files in your editor/IDE to view the raw XML. They can also be used to compare against live responses returned by this tester.

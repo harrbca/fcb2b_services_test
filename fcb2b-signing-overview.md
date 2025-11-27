@@ -88,7 +88,7 @@ This final URL is what you send via HTTP GET.
 
 ---
 
-# ✔ Summary (Ultra-Short)
+#  Summary (Ultra-Short)
 
 1. Build query params  
 2. Sort + RFC3986-encode  

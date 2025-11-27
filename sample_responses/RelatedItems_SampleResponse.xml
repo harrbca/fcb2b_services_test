@@ -1,0 +1,202 @@
+<?xml version="1.0" ?>
+<InventoryInquiryResponse xmlns="http://fcb2b.com/schemas/2.0/InventoryServices" xmlns:ml="http://fcb2b.com/schemas/common/2.0/MessageList" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fcb2b.com/schemas/2.0/InventoryServices InventoryInquiryResponse.xsd http://fcb2b.com/schemas/common/2.0/MessageList ../common/fcB2B-MessageList.xsd">
+  <Data>
+    <ClientIdentifier/>
+    <SupplierItemSKU>CASIMP10</SupplierItemSKU>
+    <TimeStamp>2025-11-27T02:06:28Z</TimeStamp>
+  </Data>
+  <RelatedItems>
+    <RelatedItem>
+      <DropFlag>true</DropFlag>
+      <AvailableFOBPoint/>
+      <AvailableShadeOrDyeLot/>
+      <TextDescription>S-185 3.78L LATEX PRIMER</TextDescription>
+      <RollOrCutFlag>false</RollOrCutFlag>
+      <SupplierItemSKU>ARMS-185601</SupplierItemSKU>
+      <AvailableUnitOfMeasure>EA</AvailableUnitOfMeasure>
+      <FutureAvailableDate/>
+      <AvailableQuantity>114.00</AvailableQuantity>
+      <FutureAvailableQty/>
+    </RelatedItem>
+    <RelatedItem>
+      <DropFlag>false</DropFlag>
+      <AvailableFOBPoint/>
+      <AvailableShadeOrDyeLot/>
+      <TextDescription>S-337 1.9L ONCE N DONE</TextDescription>
+      <RollOrCutFlag>false</RollOrCutFlag>
+      <SupplierItemSKU>ARMS-337406</SupplierItemSKU>
+      <AvailableUnitOfMeasure>EA</AvailableUnitOfMeasure>
+      <FutureAvailableDate/>
+      <AvailableQuantity>86.00</AvailableQuantity>
+      <FutureAvailableQty/>
+    </RelatedItem>
+    <RelatedItem>
+      <DropFlag>false</DropFlag>
+      <AvailableFOBPoint/>
+      <AvailableShadeOrDyeLot/>
+      <TextDescription>S-338 1.9L ONCE N DONE</TextDescription>
+      <RollOrCutFlag>false</RollOrCutFlag>
+      <SupplierItemSKU>ARMS-338406</SupplierItemSKU>
+      <AvailableUnitOfMeasure>EA</AvailableUnitOfMeasure>
+      <FutureAvailableDate/>
+      <AvailableQuantity>1503.00</AvailableQuantity>
+      <FutureAvailableQty/>
+    </RelatedItem>
+    <RelatedItem>
+      <DropFlag>false</DropFlag>
+      <AvailableFOBPoint/>
+      <AvailableShadeOrDyeLot/>
+      <TextDescription>S-480 3.78L COMMERCIAL POLISH</TextDescription>
+      <RollOrCutFlag>false</RollOrCutFlag>
+      <SupplierItemSKU>ARMS-480601</SupplierItemSKU>
+      <AvailableUnitOfMeasure>EA</AvailableUnitOfMeasure>
+      <FutureAvailableDate/>
+      <AvailableQuantity>19.00</AvailableQuantity>
+      <FutureAvailableQty/>
+    </RelatedItem>
+    <RelatedItem>
+      <DropFlag>false</DropFlag>
+      <AvailableFOBPoint/>
+      <AvailableShadeOrDyeLot/>
+      <TextDescription>S-480 18.9L COMMERCIAL POLISH</TextDescription>
+      <RollOrCutFlag>false</RollOrCutFlag>
+      <SupplierItemSKU>ARMS-480603</SupplierItemSKU>
+      <AvailableUnitOfMeasure>EA</AvailableUnitOfMeasure>
+      <FutureAvailableDate/>
+      <AvailableQuantity>.00</AvailableQuantity>
+      <FutureAvailableQty/>
+    </RelatedItem>
+    <RelatedItem>
+      <DropFlag>false</DropFlag>
+      <AvailableFOBPoint/>
+      <AvailableShadeOrDyeLot/>
+      <TextDescription>S-995 COM/RES LVT / SHEET /ALT</TextDescription>
+      <RollOrCutFlag>false</RollOrCutFlag>
+      <SupplierItemSKU>ARM00995108</SupplierItemSKU>
+      <AvailableUnitOfMeasure>EA</AvailableUnitOfMeasure>
+      <FutureAvailableDate/>
+      <AvailableQuantity>246.00</AvailableQuantity>
+      <FutureAvailableQty/>
+    </RelatedItem>
+    <RelatedItem>
+      <DropFlag>false</DropFlag>
+      <AvailableFOBPoint/>
+      <AvailableShadeOrDyeLot/>
+      <TextDescription>S-995 COM/RES LVT / SHEET /ALT</TextDescription>
+      <RollOrCutFlag>false</RollOrCutFlag>
+      <SupplierItemSKU>ARM00995418</SupplierItemSKU>
+      <AvailableUnitOfMeasure>EA</AvailableUnitOfMeasure>
+      <FutureAvailableDate/>
+      <AvailableQuantity>1022.00</AvailableQuantity>
+      <FutureAvailableQty/>
+    </RelatedItem>
+    <RelatedItem>
+      <DropFlag>false</DropFlag>
+      <AvailableFOBPoint/>
+      <AvailableShadeOrDyeLot/>
+      <TextDescription>CASCADE XT360 1 GAL</TextDescription>
+      <RollOrCutFlag>false</RollOrCutFlag>
+      <SupplierItemSKU>CASXT360-1G</SupplierItemSKU>
+      <AvailableUnitOfMeasure>EA</AvailableUnitOfMeasure>
+      <FutureAvailableDate/>
+      <AvailableQuantity>488.00</AvailableQuantity>
+      <FutureAvailableQty/>
+    </RelatedItem>
+    <RelatedItem>
+      <DropFlag>false</DropFlag>
+      <AvailableFOBPoint/>
+      <AvailableShadeOrDyeLot/>
+      <TextDescription>CASCADE XT360 4 GAL</TextDescription>
+      <RollOrCutFlag>false</RollOrCutFlag>
+      <SupplierItemSKU>CASXT360-4G</SupplierItemSKU>
+      <AvailableUnitOfMeasure>EA</AvailableUnitOfMeasure>
+      <FutureAvailableDate/>
+      <AvailableQuantity>2016.00</AvailableQuantity>
+      <FutureAvailableQty/>
+    </RelatedItem>
+    <RelatedItem>
+      <DropFlag>true</DropFlag>
+      <AvailableFOBPoint/>
+      <AvailableShadeOrDyeLot/>
+      <TextDescription>ARMORTECH STICKY FELT</TextDescription>
+      <RollOrCutFlag>false</RollOrCutFlag>
+      <SupplierItemSKU>VITAT002340</SupplierItemSKU>
+      <AvailableUnitOfMeasure>SF</AvailableUnitOfMeasure>
+      <FutureAvailableDate/>
+      <AvailableQuantity>.00</AvailableQuantity>
+      <FutureAvailableQty/>
+    </RelatedItem>
+    <RelatedItem>
+      <DropFlag>false</DropFlag>
+      <AvailableFOBPoint/>
+      <AvailableShadeOrDyeLot/>
+      <TextDescription>ARMORTECH STICKY FELT</TextDescription>
+      <RollOrCutFlag>false</RollOrCutFlag>
+      <SupplierItemSKU>VITAT002579</SupplierItemSKU>
+      <AvailableUnitOfMeasure>SF</AvailableUnitOfMeasure>
+      <FutureAvailableDate/>
+      <AvailableQuantity>.00</AvailableQuantity>
+      <FutureAvailableQty/>
+    </RelatedItem>
+    <RelatedItem>
+      <DropFlag>false</DropFlag>
+      <AvailableFOBPoint/>
+      <AvailableShadeOrDyeLot/>
+      <TextDescription>ARMORTECH VANGUARD</TextDescription>
+      <RollOrCutFlag>false</RollOrCutFlag>
+      <SupplierItemSKU>VITAT002630</SupplierItemSKU>
+      <AvailableUnitOfMeasure>SF</AvailableUnitOfMeasure>
+      <FutureAvailableDate/>
+      <AvailableQuantity>.00</AvailableQuantity>
+      <FutureAvailableQty/>
+    </RelatedItem>
+    <RelatedItem>
+      <DropFlag>false</DropFlag>
+      <AvailableFOBPoint/>
+      <AvailableShadeOrDyeLot/>
+      <TextDescription>ARMORTECH ULTRA FELT</TextDescription>
+      <RollOrCutFlag>false</RollOrCutFlag>
+      <SupplierItemSKU>VITAT002647</SupplierItemSKU>
+      <AvailableUnitOfMeasure>SF</AvailableUnitOfMeasure>
+      <FutureAvailableDate/>
+      <AvailableQuantity>.00</AvailableQuantity>
+      <FutureAvailableQty/>
+    </RelatedItem>
+    <RelatedItem>
+      <DropFlag>false</DropFlag>
+      <AvailableFOBPoint/>
+      <AvailableShadeOrDyeLot/>
+      <TextDescription>ARMORTECH ULTRA BOARD BUILDER</TextDescription>
+      <RollOrCutFlag>false</RollOrCutFlag>
+      <SupplierItemSKU>VITAT002654</SupplierItemSKU>
+      <AvailableUnitOfMeasure>SF</AvailableUnitOfMeasure>
+      <FutureAvailableDate/>
+      <AvailableQuantity>.00</AvailableQuantity>
+      <FutureAvailableQty/>
+    </RelatedItem>
+    <RelatedItem>
+      <DropFlag>false</DropFlag>
+      <AvailableFOBPoint/>
+      <AvailableShadeOrDyeLot/>
+      <TextDescription>NEO PRO NEOPRENE FLOOR RUNNER</TextDescription>
+      <RollOrCutFlag>false</RollOrCutFlag>
+      <SupplierItemSKU>VITSP001633</SupplierItemSKU>
+      <AvailableUnitOfMeasure>SF</AvailableUnitOfMeasure>
+      <FutureAvailableDate/>
+      <AvailableQuantity>.00</AvailableQuantity>
+      <FutureAvailableQty/>
+    </RelatedItem>
+    <RelatedItem>
+      <DropFlag>false</DropFlag>
+      <AvailableFOBPoint/>
+      <AvailableShadeOrDyeLot/>
+      <TextDescription>NEO PRO NEOPRENE FLOOR RUNNER</TextDescription>
+      <RollOrCutFlag>false</RollOrCutFlag>
+      <SupplierItemSKU>VITSP001978</SupplierItemSKU>
+      <AvailableUnitOfMeasure>SF</AvailableUnitOfMeasure>
+      <FutureAvailableDate/>
+      <AvailableQuantity>.00</AvailableQuantity>
+      <FutureAvailableQty/>
+    </RelatedItem>
+  </RelatedItems>
+</InventoryInquiryResponse>
